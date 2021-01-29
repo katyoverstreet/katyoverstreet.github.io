@@ -1,7 +1,4 @@
----
-title: Welcome to My Blog
-date: 2021-01-29
---- 
+
 # Welcome to my blog!
 Welcome! On this blog, I will be sharing my experience with you as I go through the Awesome Inc Coding Bootcamp!
 
