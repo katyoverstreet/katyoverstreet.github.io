@@ -6,7 +6,7 @@ date: 2021-01-29
 
 In this blog I will make posts about my progress and experiences as I move through the Awesome Inc Coding Bootcamp Enjoy!
 <details>
-<summary> Post #1 - Week One<summary>
+<summary> Post #1 - Week One</summary>
 <ol>
  <li><strong>Was your first week what you expected? Why? Why not?</strong>
 
